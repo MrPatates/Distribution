@@ -7,7 +7,7 @@
       <title>Bienvenue sur Notre Launcher !</title>
       <content:encoded>
         <![CDATA[<p>Bienvenue dans la première version de Notre Launcher !</p></br>
-          <p>La catégorie "News" est un espace dédié où vous pourrez trouver toutes les dernières informations, mises à jour et événements sur Nos Serveurs et à Notre Launcher. Restez à jour avec les actualités du jeu, les annonces de nouveautés, les événements communautaires et bien plus encore.</a></p>
+          <p>La catégorie "News" est un espace dédié où vous pourrez trouver toutes les dernières informations, mises à jour et événements sur Nos Serveurs et à Notre Launcher. Restez à jour avec les actualités du jeu, les annonces de nouve</p>
         ]]>
       </content:encoded>
 <!--<dc:creator>GeekCorner</dc:creator>-->
@@ -17,15 +17,14 @@
     <item>
       <title>Yes, news module supports multiple articles!</title>
       <content:encoded>
-        <![CDATA[<p>Nos Liens</p></br>
+        <![CDATA[<p>This will allow you to link your blog rss function to Helios Launcher</p></br>
     <ul>
-    <li><a href="http://dl.potato-island.ovh">Télécharger Notre Launcher</a></li></br>    
     <li><a href="https://discord.com/invite/Zprtx2vbdy">Discord</a></li>
     </ul>
     ]]>
       </content:encoded>
-    <author>GeekCorner</author>
-      <pubDate>09 March 2023 03:19:00</pubDate>
+    <author>Mr.Patates</author>
+      <pubDate>29 May 2023 17:07</pubDate>
   </item>
   </channel>
 </rss>
