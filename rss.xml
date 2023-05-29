@@ -6,7 +6,8 @@
             <item>
       <title>Bienvenue sur Notre Launcher !</title>
       <content:encoded>
-        <![CDATA[<p>Bienvenue dans la première version de Notre Launcher !</p></br>
+        <![CDATA[<p>Bienvenue dans la première version de Notre Launcher !</p>
+           </br>
           <p>La catégorie "News" est un espace dédié où vous pourrez trouver toutes les dernières informations, mises à jour et événements sur Nos Serveurs et à Notre Launcher. Restez à jour avec les actualités du jeu, les annonces de nouveautés, les événements communautaires et bien plus encore.
         ]]>
       </content:encoded>
