@@ -3,28 +3,28 @@
   <channel>
     <title>Notre Launcher News</title>
     <link>https://github.com/MrPatates/Notre-Launcher</link>
-            <item>
+	    <item>
       <title>Bienvenue sur Notre Launcher !</title>
       <content:encoded>
-        <![CDATA[<p>Bienvenue dans la première version de Notre Launcher !</p></br>
+        <![CDATA[<p>If you're watching this, you're using the demo distribution file.</p></br>
           <p>This file is not meant to be used in production environment. You can generate it using <a href="https://github.com/dscalzi/nebula">Nebula</a></p>
         ]]>
       </content:encoded>
 <!--<dc:creator>GeekCorner</dc:creator>-->
-      <pubDate>11 March 2023 03:49:01</pubDate>
+      <pubDate>28 May 2023 15:59</pubDate>
 <!--      <slash:comments>2023</slash:comments>-->
-        </item>
+	</item>
     <item>
-      <title>Yes, news module supports multiple articles!</title>
+      <title>Beta v1 Notre Launcher</title>
       <content:encoded>
-        <![CDATA[<p>This will allow you to link your blog rss function to Helios Launcher</p></br>
+        <![CDATA[<p>Nos Liens</p></br>
     <ul>
     <li>HTML is supported too</li>
     </ul>
     ]]>
       </content:encoded>
-    <author>GeekCorner</author>
-      <pubDate>09 March 2023 03:19:00</pubDate>
+    <author>Mr.Patates</author>
+      <pubDate>29 May 2023 17:07</pubDate>
   </item>
   </channel>
 </rss>
