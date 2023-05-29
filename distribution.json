@@ -11,7 +11,7 @@
       "id": "Fabric-1.19.4",
       "name": "Fabric 1.19.4",
       "description": "Survie vanilla avec quelque mods pour opti le jeu et un chat vocal",
-      "icon": "http://potato-island.ovh/notre-serveur/notre-serveur-launcher/vanilla/vanilla.png",
+      "icon": "http://potato-island.ovh/notre-serveur/notre-serveur-launcher/fabric/icon/fabric.png",
       "version": "1.0.0",
       "address": "potato-island.ovh:10",
       "minecraftVersion": "1.19.4",
