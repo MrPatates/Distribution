@@ -2,19 +2,20 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Notre Launcher News</title>
-    <link>https://github.com/MrPatates/Notre-Launcher</link>
+    <link>https://github.com/dscalzi/helioslauncher</link>
             <item>
       <title>Bienvenue sur Notre Launcher !</title>
       <content:encoded>
-        <![CDATA[<p>Bienvenue dans la première version de Notre Launcher !</p></br>           
-          <p>La catégorie "News" est un espace dédié où vous pourrez trouver toutes les dernières informations, mises à jour et événements sur Nos Serveurs et à Notre Launcher. Restez à jour avec les actualités du jeu, les annonces de nouveautés, les événements communautaires et bien plus encore.
+        <![CDATA[<p>Bienvenue dans la première version de Notre Launcher !</p></br>
+          <p>La catégorie "News" est un espace dédié où vous pourrez trouver toutes les dernières informations, mises à jour et événements sur Nos Serveurs et à Notre Launcher. Restez à jour avec les actualités du jeu, les annonces de nouveautés, les événements communautaires et bien plus encore.</a></p>
         ]]>
       </content:encoded>
-    <author>Mr.Patates</author>
-      <pubDate>28 May 2023 15:59</pubDate>
+<!--<dc:creator>GeekCorner</dc:creator>-->
+      <pubDate>11 March 2023 03:49:01</pubDate>
+<!--      <slash:comments>2023</slash:comments>-->
         </item>
     <item>
-      <title>Beta v1 Notre Launcher</title>
+      <title>Yes, news module supports multiple articles!</title>
       <content:encoded>
         <![CDATA[<p>Nos Liens</p></br>
     <ul>
@@ -23,8 +24,8 @@
     </ul>
     ]]>
       </content:encoded>
-    <author>Mr.Patates</author>
-      <pubDate>29 May 2023 17:07</pubDate>
+    <author>GeekCorner</author>
+      <pubDate>09 March 2023 03:19:00</pubDate>
   </item>
   </channel>
 </rss>
