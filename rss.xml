@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Notre Launcher News</title>
+    <link>https://github.com/MrPatates/Notre-Launcher</link>
+            <item>
+      <title>Bienvenue sur Notre Launcher !</title>
+      <content:encoded>
+        <![CDATA[<p>Bienvenue dans la première version de Notre Launcher !</p></br>
+          <p>La catégorie "News" est un espace dédié où vous pourrez trouver toutes les dernières informations, mises à jour et événements sur Nos Serveurs et à Notre Launcher. Restez à jour avec les actualités du jeu, les annonces de nouve>
+        ]]>
+      </content:encoded>
+<!--<dc:creator>GeekCorner</dc:creator>-->
+      <pubDate>28 May 2023 15:59</pubDate>
+<!--      <slash:comments>2023</slash:comments>-->
+        </item>
+    <item>
+      <title>Beta v1 Notre Launcher</title>
+      <content:encoded>
+        <![CDATA[<p>Nos Liens</p></br>
+    <ul>
+    <li><a href="http://dl.potato-island.ovh">Télécharger Notre Launcher</a></li>
+    </br>
+    <li><a href="https://discord.com/invite/Zprtx2vbdy">Discord</a></li>
+    </ul>
+    ]]>
+      </content:encoded>
+    <author>Mr.Patates</author>
+      <pubDate>29 May 2023 17:07</pubDate>
+  </item>
+  </channel>
+</rss>
