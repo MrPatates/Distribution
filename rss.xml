@@ -7,12 +7,11 @@
       <title>Bienvenue sur Notre Launcher !</title>
       <content:encoded>
         <![CDATA[<p>Bienvenue dans la première version de Notre Launcher !</p></br>
-          <p>La catégorie "News" est un espace dédié où vous pourrez trouver toutes les dernières informations, mises à jour et événements sur Nos Serveurs et à Notre Launcher. Restez à jour avec les actualités du jeu, les annonces de nouve>
+          <p>La catégorie "News" est un espace dédié où vous pourrez trouver toutes les dernières informations, mises à jour et événements sur Nos Serveurs et à Notre Launcher. Restez à jour avec les actualités du jeu, les annonces de nouveautés, les événements communautaires et bien plus encore.
         ]]>
       </content:encoded>
-<!--<dc:creator>GeekCorner</dc:creator>-->
+    <author>Mr.Patates</author>
       <pubDate>28 May 2023 15:59</pubDate>
-<!--      <slash:comments>2023</slash:comments>-->
         </item>
     <item>
       <title>Beta v1 Notre Launcher</title>
