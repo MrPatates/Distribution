@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "decimation-1.7.10",
-      "name": "Décimation (Minecraft 1.7.10)",
+      "name": "Décimation",
       "description": "Décimation Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
       "icon": null,
       "version": "1.0.0",
