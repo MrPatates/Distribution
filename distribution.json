@@ -250,7 +250,7 @@
     },
     {
       "id": "modde_v3-1.18.2",
-      "name": "Moddé_v3 (Minecraft 1.18.2)",
+      "name": "Moddé_v3",
       "description": "Moddé_v3 Running Minecraft 1.18.2 (Forge v40.2.1)",
       "icon": null,
       "version": "1.0.0",
@@ -1928,9 +1928,9 @@
     },
     {
       "id": "pixelmon-1.16.5",
-      "name": "Pixelmon (Minecraft 1.16.5)",
-      "description": "pixelmon sous Minecraft 1.16.5 (Forge v36.2.39)",
-      "icon": null,
+      "name": "Pixelmon",
+      "description": "Pixelmon sous Minecraft 1.16.5 (Forge v36.2.39)",
+      "icon": "http://potato-island.ovh/notre-serveur/notre-serveur-launcher/forge/icon/pixelmon.png",
       "version": "1.0.0",
       "address": "potato-island.ovh:4",
       "minecraftVersion": "1.16.5",
