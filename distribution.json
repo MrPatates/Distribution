@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "decimation-1.7.10",
-      "name": "Décimation",
+      "name": "Décimation (Minecraft 1.7.10)",
       "description": "Décimation Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
       "icon": null,
       "version": "1.0.0",
@@ -234,12 +234,23 @@
             "url": "http://potato-island.ovh/notre-serveur/servers/decimation-1.7.10/forgemods/required/OptiFine_1.7.10_HD_U_E7.jar",
             "MD5": "445062f5aaf982c36c72d90530c26850"
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 75,
+            "url": "http://potato-island.ovh/notre-serveur/servers/decimation-1.7.10/files/servers.dat",
+            "MD5": "a705a2d8dd74b3d6daf39d2a3ae594dd",
+            "path": "servers.dat"
+          }
         }
       ]
     },
     {
       "id": "modde_v3-1.18.2",
-      "name": "Moddé_v3",
+      "name": "Moddé_v3 (Minecraft 1.18.2)",
       "description": "Moddé_v3 Running Minecraft 1.18.2 (Forge v40.2.1)",
       "icon": null,
       "version": "1.0.0",
@@ -1901,13 +1912,24 @@
             "url": "http://potato-island.ovh/notre-serveur/servers/modde_v3-1.18.2/forgemods/required/YungsBetterMineshafts-1.18.2-Forge-2.2.jar",
             "MD5": "8419d7d54b5818fcd34a00ac308ca4ff"
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 74,
+            "url": "http://potato-island.ovh/notre-serveur/servers/modde_v3-1.18.2/files/servers.dat",
+            "MD5": "ee5f1a12e2469f5b49dd08a6daa73a6f",
+            "path": "servers.dat"
+          }
         }
       ]
     },
     {
       "id": "pixelmon-1.16.5",
-      "name": "Pixelmon",
-      "description": "Pixelmon sous Minecraft 1.16.5 (Forge v36.2.39)",
+      "name": "Pixelmon (Minecraft 1.16.5)",
+      "description": "pixelmon sous Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": null,
       "version": "1.0.0",
       "address": "potato-island.ovh:4",
@@ -1917,7 +1939,7 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -2612,8 +2634,19 @@
             "url": "http://potato-island.ovh/notre-serveur/servers/pixelmon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.3.12.jar",
             "MD5": "a7c529ebcc38c0864f842a744f8e0617"
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 79,
+            "url": "http://potato-island.ovh/notre-serveur/servers/pixelmon-1.16.5/files/servers.dat",
+            "MD5": "4ce0b2626e1b2ec55315cda5e136ad1c",
+            "path": "servers.dat"
+          }
         }
       ]
     }
   ]
-}
+}1
