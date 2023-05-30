@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "decimation-1.7.10",
-      "name": "Décimation (Minecraft 1.7.10)",
+      "name": "Décimation",
       "description": "Décimation Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
       "icon": null,
       "version": "1.0.0",
@@ -239,7 +239,7 @@
     },
     {
       "id": "modde_v3-1.18.2",
-      "name": "Moddé_v3 (Minecraft 1.18.2)",
+      "name": "Moddé_v3",
       "description": "Moddé_v3 Running Minecraft 1.18.2 (Forge v40.2.1)",
       "icon": null,
       "version": "1.0.0",
@@ -1906,7 +1906,7 @@
     },
     {
       "id": "pixelmon-1.16.5",
-      "name": "Pixelmon (Minecraft 1.16.5)",
+      "name": "Pixelmon",
       "description": "pixelmon sous Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": null,
       "version": "1.0.0",
