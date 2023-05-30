@@ -11,7 +11,7 @@
       "id": "decimation-1.7.10",
       "name": "Décimation",
       "description": "Décimation sous Minecraft 1.7.10 (Forge v10.13.4.1614)",
-      "icon": null,
+      "icon": "http://potato-island.ovh/notre-serveur/notre-serveur-launcher/forge/icon/decimation.png",
       "version": "1.0.0",
       "address": "potato-island.ovh:5",
       "minecraftVersion": "1.7.10",
