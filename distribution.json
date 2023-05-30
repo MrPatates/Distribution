@@ -10,7 +10,7 @@
     {
       "id": "decimation-1.7.10",
       "name": "Décimation",
-      "description": "Décimation Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+      "description": "Décimation sous Minecraft 1.7.10 (Forge v10.13.4.1614)",
       "icon": null,
       "version": "1.0.0",
       "address": "potato-island.ovh:5",
@@ -251,7 +251,7 @@
     {
       "id": "modde_v3-1.18.2",
       "name": "Moddé v3",
-      "description": "Moddé v3 Running Minecraft 1.18.2 (Forge v40.2.1)",
+      "description": "Moddé v3 sous Minecraft 1.18.2 (Forge v40.2.1)",
       "icon": null,
       "version": "1.0.0",
       "address": "potato-island.ovh:9",
