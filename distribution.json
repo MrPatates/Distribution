@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "rss": "http://potato-island.ovh/notre-serveur/notre-serveur-launcher/news/rss.xml",
+  "rss": "https://cdn.discordapp.com/attachments/1063556278972055563/1113098055344980109/rss.xml",
   "discord": {
     "clientId": "1086936373057040395",
     "smallImageText": "Change me through Nebula",
