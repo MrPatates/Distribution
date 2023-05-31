@@ -413,6 +413,86 @@
           ]
         },
         {
+          "id": "squeek.appleskin:appleskin:2.4.3+mc1.19.4@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 46976,
+            "url": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/forgemods/required/appleskin-forge-mc1.19.4-2.4.3.jar",
+            "MD5": "757b5e83f4c2ab0ab2a21289849edcdf"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:5.2.0@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 122799,
+            "url": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/forgemods/required/ferritecore-5.2.0-forge.jar",
+            "MD5": "7405c02fc159ff970660e738fa108bd6"
+          }
+        },
+        {
+          "id": "com.ewyboy:fps:1.3.0@jar",
+          "name": "FPS Monitor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 124287,
+            "url": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/forgemods/required/FPS-Monitor-1.19.4-1.3.0.jar",
+            "MD5": "55fab3d8e9203dc0a174970eeee385ab"
+          }
+        },
+        {
+          "id": "dev.nero:horsestatsmod:1.4.7@jar",
+          "name": "Horse Stats Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27960,
+            "url": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/forgemods/required/horsestatsmod-MC1.19.x-1.4.7.jar",
+            "MD5": "2eca5d251dd4c782f4ab5fe1ab119102"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.19.4_HD_U_I4@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7049104,
+            "url": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/forgemods/required/OptiFine_1.19.4_HD_U_I4.jar",
+            "MD5": "adb67e1ac3f2c55c9b874d3013b1e147"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.19.4-2.4.8@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7536714,
+            "url": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/forgemods/required/voicechat-forge-1.19.4-2.4.8.jar",
+            "MD5": "267342f4655c6592455a1eb4b40f74b4"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:23.4.4@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1281481,
+            "url": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/forgemods/required/Xaeros_Minimap_23.4.4_Forge_1.19.4.jar",
+            "MD5": "fef453cd0d60705ce5c482115247f844"
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.30.3@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 793489,
+            "url": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/forgemods/required/XaerosWorldMap_1.30.3_Forge_1.19.4.jar",
+            "MD5": "3bd339b48725fe423c614c3b93e1f400"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
