@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "rss": "https://cdn.discordapp.com/attachments/1063556278972055563/1113098055344980109/rss.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -8,10 +8,428 @@
   },
   "servers": [
     {
+      "id": "beta-vanilla-1.19.4",
+      "name": "Vanilla",
+      "description": "Vanilla sous Minecraft 1.19.4 (Forge v45.0.66)",
+      "icon": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/vanilla.png",
+      "version": "1.0.0",
+      "address": "potato-island.ovh:10",
+      "minecraftVersion": "1.19.4",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.19.4-45.0.66",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7378,
+            "MD5": "15be9836e9e1acf28dc73efce1331a25",
+            "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/lowcodelanguage/1.19.4-45.0.66/lowcodelanguage-1.19.4-45.0.66.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.19.4-45.0.66",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 15504,
+                "MD5": "099fd71bb960047acb74347fd3d2580d",
+                "url": "http://potato-island.ovh/notre-serveur/repo/versions/1.19.4-forge-45.0.66/1.19.4-forge-45.0.66.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.19.4-45.0.66",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 116108,
+                "MD5": "04e9b61cb80ff885db06bd221a1b2028",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/fmlcore/1.19.4-45.0.66/fmlcore-1.19.4-45.0.66.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.19.4-45.0.66",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16352,
+                "MD5": "a1e679911a94f3053b87e8e7570971e6",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/javafmllanguage/1.19.4-45.0.66/javafmllanguage-1.19.4-45.0.66.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.19.4-45.0.66",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4987,
+                "MD5": "14fa858a5011464270d461e7d7880c60",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/mclanguage/1.19.4-45.0.66/mclanguage-1.19.4-45.0.66.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.19.4-45.0.66:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2673214,
+                "MD5": "a9ac362d43db11c8b5a2cd21e92cc189",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/forge/1.19.4-45.0.66/forge-1.19.4-45.0.66-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.19.4-45.0.66:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 5467201,
+                "MD5": "ecb567a33c08e70c729eb8caa9cd1720",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/forge/1.19.4-45.0.66/forge-1.19.4-45.0.66-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.19.4-20230314.122934:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18578667,
+                "MD5": "500a7127781d84a24d65f110479538f3",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.19.4-20230314.122934:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12410103,
+                "MD5": "764989b8230caa18e97f90799f902650",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.19.4-20230314.122934:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 11066539,
+                "MD5": "e612fd0d646100ae60158ba37c5aa71a",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.6",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 87783,
+                "MD5": "8a4e7e2770d7147d7551d1f3ad835baa",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/cpw/mods/securejarhandler/2.1.6/securejarhandler-2.1.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.5",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 121863,
+                "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.5",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 72209,
+                "MD5": "7d1fce986192f71722b19754e4cb9e61",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.5",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51944,
+                "MD5": "44755681b7d6fa7143afbb438e55c20c",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.5",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 91076,
+                "MD5": "ad0016249fb68bb9196babefd47b80dc",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.5",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 33978,
+                "MD5": "4df0adafc78ebba404d4037987d36b61",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.3",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 52624,
+                "MD5": "7c93693a70962a1c1893e3c058dca5cf",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:6.0.0",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 32714,
+                "MD5": "8c04b8c26ac1d55c281bfeaa71731414",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.0.1",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 24199,
+                "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.8",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130263,
+                "MD5": "3e171edcc29e762d2ecafffabb9e9341",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.8.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 15425,
+                "MD5": "ee4596e1413cc1a5e080c971d6064753",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167288,
+                "MD5": "91e98c20afa1090c344229ce28b4c53f",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.19.4-45.0.66",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 261131,
+                "MD5": "168f3298bf4059b8d5db71cbc13f063a",
+                "url": "http://potato-island.ovh/notre-serveur/repo/lib/net/minecraftforge/fmlloader/1.19.4-45.0.66/fmlloader-1.19.4-45.0.66.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 80,
+            "url": "http://potato-island.ovh/notre-serveur/servers/beta-vanilla-1.19.4/files/servers.dat",
+            "MD5": "333549b10b6836f232915b5de5ca2184",
+            "path": "servers.dat"
+          }
+        }
+      ]
+    },
+    {
       "id": "decimation-1.7.10",
       "name": "Décimation",
       "description": "Décimation sous Minecraft 1.7.10 (Forge v10.13.4.1614)",
-      "icon": "http://potato-island.ovh/notre-serveur/notre-serveur-launcher/forge/icon/decimation.png",
+      "icon": "http://potato-island.ovh/notre-serveur/servers/decimation-1.7.10/decimation.png",
       "version": "1.0.0",
       "address": "potato-island.ovh:5",
       "minecraftVersion": "1.7.10",
@@ -217,7 +635,7 @@
         },
         {
           "id": "generated.forgemod:gvc:0.6.1@jar",
-          "name": "Decimation Voice Chat Mod",
+          "name": "�aGliby's�f Voice Chat Mod",
           "type": "ForgeMod",
           "artifact": {
             "size": 386488,
@@ -250,9 +668,9 @@
     },
     {
       "id": "modde_v3-1.18.2",
-      "name": "Moddé v3",
+      "name": "Moddé v3 (Minecraft 1.18.2)",
       "description": "Moddé v3 sous Minecraft 1.18.2 (Forge v40.2.1)",
-      "icon": "http://potato-island.ovh/notre-serveur/notre-serveur-launcher/forge/icon/moddev3.png",
+      "icon": "http://potato-island.ovh/notre-serveur/servers/modde_v3-1.18.2/moddev3.png",
       "version": "1.0.0",
       "address": "potato-island.ovh:9",
       "minecraftVersion": "1.18.2",
@@ -1929,8 +2347,8 @@
     {
       "id": "pixelmon-1.16.5",
       "name": "Pixelmon",
-      "description": "Pixelmon sous Minecraft 1.16.5 (Forge v36.2.39)",
-      "icon": "http://potato-island.ovh/notre-serveur/notre-serveur-launcher/forge/icon/pixelmon.png",
+      "description": "pixelmon sous Minecraft 1.16.5 (Forge v36.2.39)",
+      "icon": "http://potato-island.ovh/notre-serveur/servers/pixelmon-1.16.5/pixelmon.png",
       "version": "1.0.0",
       "address": "potato-island.ovh:4",
       "minecraftVersion": "1.16.5",
