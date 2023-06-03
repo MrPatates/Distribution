@@ -32,9 +32,9 @@
       <content:encoded>
         <![CDATA[<p>Nos Liens</p></br>
     <ul>
-    <li><a href="http://dl.potato-island.ovh">Télécharger Notre Launcher</a></li>
+    <a href="http://dl.potato-island.ovh">Télécharger Notre Launcher</a>
     </br>
-    <li><a href="https://discord.com/invite/Zprtx2vbdy">Discord</a></li>
+    <a href="https://discord.com/invite/Zprtx2vbdy">Discord</a>
     </ul>
     ]]>
       </content:encoded>
