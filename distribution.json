@@ -738,7 +738,7 @@
       },
       {
         "id": "modde_v3-1.18.2",
-        "name": "Moddé v3 (Minecraft 1.18.2)",
+        "name": "Moddé v3",
         "description": "Moddé v3 sous Minecraft 1.18.2 (Forge v40.2.1)",
         "icon": "http://notre-launcher.ovh//notre-launcher/resources/client/servers/modde_v3-1.18.2/moddev3.png",
         "version": "1.0.0",
