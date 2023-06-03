@@ -1,4 +1,4 @@
-<?xml version="1.1" encoding="UTF-8"?>
+<?xml version="1.3" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Notre Launcher News</title>
@@ -19,7 +19,7 @@
       <content:encoded>
         <![CDATA[<p>Mise à jour de traduction</p></br>
              <ul>
-             <a href="http://dl.potato-island.ovh">Mise à Jour Version 1.0.2</a>
+             <a href="http://notre-launcher.ovh">Mise à Jour Version 1.0.3</a>
              </ul>
              ]]>
       </content:encoded>
@@ -32,7 +32,7 @@
       <content:encoded>
         <![CDATA[<p>Nos Liens</p></br>
     <ul>
-    <a href="http://dl.potato-island.ovh">Télécharger Notre Launcher</a>
+    <a href="http://notre-launcher.ovh">Télécharger Notre Launcher</a>
     </br>
     <a href="https://discord.com/invite/Zprtx2vbdy">Discord</a>
     </ul>
