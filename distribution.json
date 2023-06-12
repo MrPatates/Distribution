@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "alpha-vanilla-1.20",
-      "name": "Alpha vanilla (Minecraft 1.20)",
+      "name": "Vanilla",
       "description": "Alpha vanilla sous Minecraft 1.20 (Forge v46.0.14)",
       "icon": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/alpha-vanilla-1.20/vanilla.png",
       "version": "1.0.0",
@@ -500,7 +500,7 @@
     },
     {
       "id": "decimation-1.7.10",
-      "name": "Décimation (Minecraft 1.7.10)",
+      "name": "Décimation",
       "description": "Décimation Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
       "icon": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/decimation-1.7.10/decimation.png",
       "version": "1.0.0",
@@ -741,7 +741,7 @@
     },
     {
       "id": "modde_v3-1.18.2",
-      "name": "Moddé_v3 (Minecraft 1.18.2)",
+      "name": "Moddé v3",
       "description": "Moddé_v3 Running Minecraft 1.18.2 (Forge v40.2.1)",
       "icon": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/modde_v3-1.18.2/moddev3.png",
       "version": "1.0.0",
@@ -2419,7 +2419,7 @@
     },
     {
       "id": "pixelmon-1.16.5",
-      "name": "Pixelmon (Minecraft 1.16.5)",
+      "name": "Pixelmon",
       "description": "pixelmon sous Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/pixelmon-1.16.5/pixelmon.png",
       "version": "1.0.0",
