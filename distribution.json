@@ -453,19 +453,6 @@
             }
           },
           {
-            "id": "net.optifine:optifine:1.19.4_HD_U_I4@jar",
-            "name": "OptiFine",
-            "type": "ForgeMod",
-            "artifact": {
-              "size": 7049104,
-              "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/beta-vanilla-1.19.4/forgemods/optionalon/OptiFine_1.19.4_HD_U_I4.jar",
-              "MD5": "adb67e1ac3f2c55c9b874d3013b1e147"
-            },
-            "required": {
-              "value": false
-          }
-          },
-          {
             "id": "de.maxhenkel:voicechat:1.19.4-2.4.8@jar",
             "name": "Simple Voice Chat",
             "type": "ForgeMod",
