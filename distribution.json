@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7069250,
-            "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/alpha-vanilla-1.20/forgemods/optionalon/preview_OptiFine_1.20_HD_U_I5_pre3.jar",
+            "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/alpha-vanilla-1.20/forgemods/optionaloff/preview_OptiFine_1.20_HD_U_I5_pre3.jar",
             "MD5": "007efa4619723eaaa720cff1ca2d9af6"
           },
           "required": {
