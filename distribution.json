@@ -911,16 +911,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.19.2_HD_U_I2@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6924339,
-            "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/cinema-1.19.2/forgemods/required/OptiFine_1.19.2_HD_U_I2.jar",
-            "MD5": "0d993ded4b5172124a2184a4b02ec9d6"
-          }
-        },
-        {
           "id": "com.pam:pamhc2foodcore:1.0.1@jar",
           "name": "Pam's HarvestCraft 2 - Food Core",
           "type": "ForgeMod",
