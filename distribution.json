@@ -951,6 +951,16 @@
           }
         },
         {
+          "id": "de.maxhenkel:voicechat:1.19.2-2.4.11@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7983555,
+            "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/cinema-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.4.11.jar",
+            "MD5": "e93c3e4a4081ed46ba4a02107b711062"
+          }
+        },
+        {
           "id": "net.montoyo.wd:webdisplays:1.3.3@jar",
           "name": "WebDisplays",
           "type": "ForgeMod",
