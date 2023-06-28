@@ -1,6 +1,6 @@
 {
   "version": "1.0.7",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "http://notre-launcher.ovh/style/rss.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
