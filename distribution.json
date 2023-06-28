@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "alpha-vanilla-1.20",
-      "name": "vanilla",
+      "name": "Vanilla 1.20",
       "description": "Alpha vanilla sous Minecraft 1.20 (Forge v46.0.14)",
       "icon": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/alpha-vanilla-1.20/vanilla.png",
       "version": "1.0.0",
