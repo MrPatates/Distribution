@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "rss": "http://notre-launcher.ovh/style/rss.xml",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -924,6 +924,16 @@
           }
         },
         {
+          "id": "com.dairymoose.modernlife.core:modernlife:1.19.2-1.59@jar",
+          "name": "Modern Life",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4184231,
+            "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/cinema-1.19.2/forgemods/required/modernlife-1.19.2-1.59.jar",
+            "MD5": "3a04a53813c4c87704bf0b4b65c53358"
+          }
+        },
+        {
           "id": "net.mehvahdjukaar:moonlight:1.19.2-2.2.40@jar",
           "name": "Moonlight Library",
           "type": "ForgeMod",
@@ -939,8 +949,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6924339,
-            "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/cinema-1.19.2/forgemods/required/OptiFine_1.19.2_HD_U_I2.jar",
+            "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/cinema-1.19.2/forgemods/optionalon/OptiFine_1.19.2_HD_U_I2.jar",
             "MD5": "0d993ded4b5172124a2184a4b02ec9d6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
