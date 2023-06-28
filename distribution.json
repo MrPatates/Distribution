@@ -891,16 +891,6 @@
           ]
         },
         {
-          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.5.2@jar",
-          "name": "3dSkinLayers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 450968,
-            "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/cinema-1.19.2/forgemods/required/3dskinlayers-forge-1.5.2-mc1.19.1.jar",
-            "MD5": "94ae6b73fdcef490cf1b6240921cf745"
-          }
-        },
-        {
           "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre35@jar",
           "name": "MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
