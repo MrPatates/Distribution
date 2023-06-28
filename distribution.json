@@ -487,11 +487,11 @@
     },
     {
       "id": "cinema-1.19.2",
-      "name": "cinema (Minecraft 1.19.2)",
-      "description": "cinema Running Minecraft 1.19.2 (Forge v43.2.14)",
+      "name": "Cinéma",
+      "description": "Cinéma sous Minecraft 1.19.2 (Forge v43.2.14)",
       "icon": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/cinema-1.19.2/cinema.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "potato-island.ovh:25565",
       "minecraftVersion": "1.19.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -977,7 +977,7 @@
           "artifact": {
             "size": 0,
             "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/cinema-1.19.2/files/servers.dat",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "MD5": "333549b10b6836f232915b5de5ca2184",
             "path": "servers.dat"
           }
         }
