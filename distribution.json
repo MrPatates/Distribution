@@ -477,9 +477,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 80,
+            "size": 1045,
             "url": "http://notre-launcher.ovh/notre-launcher/resources/client/servers/alpha-vanilla-1.20/files/servers.dat",
-            "MD5": "333549b10b6836f232915b5de5ca2184",
+            "MD5": "f8ac13690c5e160510b2b42f244e881c",
             "path": "servers.dat"
           }
         }
